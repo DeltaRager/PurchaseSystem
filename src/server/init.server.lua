@@ -1,1 +1,1 @@
-print("DeltaRager is new person")
+print("DeltaRager has 10 apples")
